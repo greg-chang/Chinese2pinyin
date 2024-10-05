@@ -1,0 +1,4 @@
+
+pip install twilio
+pip install pinyin
+pip install langdetect
